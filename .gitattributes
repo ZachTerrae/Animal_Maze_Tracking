@@ -1,0 +1,4 @@
+*.bat -text
+*.ps1 -text
+*.sh -text
+*.command -text
