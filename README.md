@@ -716,7 +716,7 @@ PoseTally/
 
 ## Citing
 
-Tracking is done by DeepLabCut. When you publish, cite it:
+DeepLabCut Citation:
 
 - Mathis et al. (2018), *Nature Neuroscience* 21, 1281–1289.
 - Nath, Mathis et al. (2019), *Nature Protocols* 14, 2152–2176.
